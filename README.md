@@ -70,6 +70,11 @@ public_url = ngrok.connect(8501)
   - Making it more attarctive and user friendly
   - Adding the feature where the payment will auto record whe the invoice slip in uploaded to the system (using NLP)
 
+## 📽 UI
+<div align="center">
+  <img height="1000" src="Visual UI.jpg"  />
+</div>
+
 ---
 
 Built by **Githmi Punchihewa**
