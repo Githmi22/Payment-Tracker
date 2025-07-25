@@ -68,7 +68,7 @@ public_url = ngrok.connect(8501)
   - Adding the edit, remove already updated data.(To edit when the pending payment are already done)
   - To generate the converted currecy rate when the country code is added. (using local APIs)
   - Making it more attarctive and user friendly
-  - Adding the feature where the payment will auto record whe the invoice slip in uploaded to the system (using NLP)
+  - Adding the feature where the payment will auto record when the invoice slip is uploaded to the system (using NLP)
 
 ## 📽 UI
 <div align="center">
